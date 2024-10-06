@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "QAJkXM1gh2aHHVeGrt+vivBc3wzilnFDI1qoRwQev8maFAzckznXOMIxlrg3pJCX1cvj+1HHkJf8yjezkLqvnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eugen\\RiderProjects\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\nlog\\5.3.4\\nlog.5.3.4.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\nlog.extensions.logging\\5.3.14\\nlog.extensions.logging.5.3.14.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\nlog.schema\\5.3.4\\nlog.schema.5.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}
